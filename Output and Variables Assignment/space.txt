@@ -1,0 +1,11 @@
+Ques: How much space does following data types take ?
+
+1.int
+2.bool
+3.float
+
+
+Ans:
+1.4 bytes
+2.1 byte
+3.4 bytes
